@@ -1,0 +1,9 @@
+{
+    "total_records": 10683,
+    "outlier_count": 94,
+    "outlier_percentage": 0.88,
+    "min_value": 1759.0,
+    "max_value": 79512.0,
+    "lower_bound": -5367.0,
+    "upper_bound": 23017.0
+}
