@@ -1,24 +1,14 @@
-# =========================
-# CORE ML (Stable for Render)
-# =========================
-pandas==2.0.3
-numpy==1.24.4
-scikit-learn==1.3.2
-xgboost==1.7.6
+setuptools
+wheel
 
-# =========================
-# UTILITIES
-# =========================
-joblib==1.3.2
-openpyxl==3.1.2
+fastapi==0.115.0
+uvicorn==0.30.6
 
-# =========================
-# FRONTEND (optional here)
-# =========================
-streamlit==1.32.2
+pandas==2.2.3
+numpy==2.1.1
 
-# =========================
-# BACKEND
-# =========================
-fastapi==0.110.0
-uvicorn==0.29.0
+scikit-learn==1.5.2
+xgboost==2.1.1
+
+joblib==1.4.2
+openpyxl==3.1.5
